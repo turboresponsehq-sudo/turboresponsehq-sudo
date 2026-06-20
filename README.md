@@ -58,6 +58,8 @@ My focus is on **Application Intelligence** — designing multi-agent architectu
 - **Google Cloud Certified — Generative AI Leader** *(Issued Dec 28, 2025 · Expires Dec 28, 2028 · ID: c45943bc127146588ac311233f14d260)*
 - **Manus Advanced Certificate** *(Issued Dec 27, 2025 · Manus Academy · #69326f49f918f9c55d0b2e81)*
 
+[View Google Developer Profile & Credentials →](https://me.developers.google.com/u/me)
+
 ---
 
 ### 🤝 Let's Connect
@@ -65,5 +67,5 @@ I am currently building **Turbo Response HQ**, an Application Intelligence platf
 
 If you are a founder, CEO, or technical leader looking to replace manual bottlenecks with deterministic AI systems, let's talk.
 
-[LinkedIn](https://www.linkedin.com/in/demarcus-collins-tr) | [Website](https://turboresponsehq.ai) | [GitHub](https://github.com/turboresponsehq-sudo)
+[LinkedIn](https://www.linkedin.com/in/demarcus-collins-tr) | [Website](https://turboresponsehq.ai) | [GitHub](https://github.com/turboresponsehq-sudo) | [Google Developer Profile](https://me.developers.google.com/u/me)
 (Content truncated due to size limit. Use line ranges to read remaining content)
