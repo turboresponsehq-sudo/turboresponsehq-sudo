@@ -55,8 +55,8 @@ My focus is on **Application Intelligence** — designing multi-agent architectu
 ---
 
 ### 📜 Certifications
-- **Google Professional Workspace Administrator**
-- **Manus Certified AI Systems Architect**
+- **Google Cloud Certified — Generative AI Leader** *(Issued Dec 28, 2025 · Expires Dec 28, 2028 · ID: c45943bc127146588ac311233f14d260)*
+- **Manus Advanced Certificate** *(Issued Dec 27, 2025 · Manus Academy · #69326f49f918f9c55d0b2e81)*
 
 ---
 
