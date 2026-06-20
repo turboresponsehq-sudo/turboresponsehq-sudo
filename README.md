@@ -65,5 +65,5 @@ I am currently building **Turbo Response HQ**, an Application Intelligence platf
 
 If you are a founder, CEO, or technical leader looking to replace manual bottlenecks with deterministic AI systems, let's talk.
 
-[LinkedIn] | [Website] | [Email]
+[LinkedIn](https://www.linkedin.com/in/demarcus-collins-tr) | [Website](https://turboresponsehq.ai) | [GitHub](https://github.com/turboresponsehq-sudo)
 (Content truncated due to size limit. Use line ranges to read remaining content)
