@@ -1,7 +1,7 @@
 # Demarcus Collins
 ### AI Operations Builder · AI Systems Architect · Workflow Automation Specialist
 
-I design and deploy AI-powered business systems — from multi-agent pipelines and RAG architectures to full-stack production platforms and automated intelligence workflows.
+I design and deploy AI-powered business systems — multi-agent pipelines, RAG architectures, full-stack platforms, and automated intelligence workflows.
 
 ---
 
@@ -49,7 +49,7 @@ I design and deploy AI-powered business systems — from multi-agent pipelines a
 #### 5. Consumer Defense AI Chatbot
 **Problem:** Static intake forms lose high-intent leads who need guidance before committing.
 **Build:** Conversational AI intake — detects case category across 8 types, generates dynamic follow-up questions, summarizes the case, and syncs structured data directly to HubSpot CRM.
-**Outcome:** 24/7 intelligent lead qualification and CRM capture without staff involvement.
+**Outcome:** Around-the-clock intelligent lead qualification and CRM capture without staff involvement.
 
 ---
 
@@ -67,10 +67,10 @@ I design and deploy AI-powered business systems — from multi-agent pipelines a
 ### 📜 Certifications
 
 - **Google Cloud Certified — Generative AI Leader**
-  *Issued Dec 28, 2025 · Valid through Dec 28, 2028 · ID: c45943bc127146588ac311233f14d260*
+  *Issued Dec 28, 2025 · Expires Dec 28, 2028 · Series ID: 40768 · Credential ID: c45943bc127146588ac311233f14d260*
 
 - **Manus Advanced Certificate — Manus Academy**
-  *Issued Dec 27, 2025 · Certificate #69326f49f918f9c55d0b2e81*
+  *Completed Dec 27, 2025 · Certificate #69326f49f918f9c55d0b2e81*
 
 [View Google Developer Profile & All Credentials →](https://me.developers.google.com/u/me)
 
@@ -82,4 +82,4 @@ Currently building **[Turbo Response HQ](https://turboresponsehq.ai)** — an Ap
 
 Open to consulting engagements, contract roles, and conversations with founders and operators building AI-powered systems.
 
-[LinkedIn](https://www.linkedin.com/in/demarcus-collins-tr) · [Website](https://turboresponsehq.ai) · [Google Developer Profile](https://me.developers.google.com/u/me)
+[LinkedIn](https://www.linkedin.com/in/demarcus-collins-tr) · [Website](https://turboresponsehq.ai) · [GitHub](https://github.com/turboresponsehq-sudo) · [Google Developer Profile](https://me.developers.google.com/u/me)
