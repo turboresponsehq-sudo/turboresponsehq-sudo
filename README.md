@@ -20,7 +20,7 @@ I design and deploy AI-powered business systems — multi-agent pipelines, RAG a
 
 #### 1. AI Legal Case Analysis Engine
 **Problem:** Consumer rights case review required hours of manual legal analysis per intake.
-**Build:** GPT-4o engine with structured JSON prompting — detects violations (FDCPA, FCRA, TCPA), cites statutes, scores case probability, and generates dynamic pricing.
+**Build:** BUILT_IN_FORGE AI gateway with structured JSON prompting — detects violations (FDCPA, FCRA, TCPA), cites statutes, scores case probability, and generates dynamic pricing.
 **Outcome:** Analysis completed in under 10 seconds. Live in production.
 
 ---
@@ -34,14 +34,14 @@ I design and deploy AI-powered business systems — multi-agent pipelines, RAG a
 
 #### 3. Turbo Brain RAG System
 **Problem:** Standard LLMs cannot reliably answer questions about proprietary SOPs and legal strategies.
-**Build:** End-to-end RAG pipeline — PDF extraction → semantic chunking → OpenAI embeddings → Supabase pgvector → GPT-4o grounded responses.
+**Build:** End-to-end RAG pipeline — PDF extraction → semantic chunking → document storage → semantic extraction → BUILT_IN_FORGE grounded responses.
 **Outcome:** AI that answers operational and legal questions strictly from custom uploaded documents.
 
 ---
 
 #### 4. AI Business Audit Lead Generation System
 **Problem:** Generic lead magnets produce low-quality, low-intent leads.
-**Build:** Async AI pipeline — user submits their website URL, background worker scrapes the site, GPT-4o generates a custom operational audit, formatted report delivered via email within 10 minutes.
+**Build:** Async AI pipeline — user submits their website URL, background worker scrapes the site, BUILT_IN_FORGE AI gateway generates a custom operational audit, formatted report delivered via email within 10 minutes.
 **Outcome:** High-value AI audit delivered automatically, converting cold traffic into warm, qualified leads.
 
 ---
@@ -66,8 +66,8 @@ I design and deploy AI-powered business systems — multi-agent pipelines, RAG a
 |---|---|
 | **AI & Automation** | Multi-Agent Orchestration, RAG Pipelines, Prompt Engineering, GitHub Actions, Cron Automation |
 | **Full-Stack** | React, TypeScript, Node.js, Express, tRPC |
-| **Data & Infrastructure** | MCP (Model Context Protocol), Supabase (pgvector), S3 Storage, Render |
-| **Business Operations** | HubSpot CRM API, Stripe, Meta Conversions API, SendGrid |
+| **Data & Infrastructure** | MCP (Model Context Protocol), Supabase (PostgreSQL/Storage), S3 Storage, Render |
+| **Business Operations** | HubSpot CRM API, SendGrid, Google Workspace CLI, Notion SDK |
 
 ---
 
