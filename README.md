@@ -9,7 +9,7 @@ I design and deploy AI-powered business systems — multi-agent pipelines, RAG a
 
 | Metric | Count |
 |---|---|
-| AI Systems Built & Operational | **41** |
+| AI Systems Built & Operational | **42** |
 | Automated Intelligence Reports Generated | **122** |
 | Database Migrations Managed in Production | **15** |
 | Automated CI/CD Pipeline Jobs Orchestrated | **5** |
@@ -46,7 +46,14 @@ I design and deploy AI-powered business systems — multi-agent pipelines, RAG a
 
 ---
 
-#### 5. Consumer Defense AI Chatbot
+#### 5. MCP Infrastructure & Orchestration Layer
+**Problem:** LLMs are isolated text generators that cannot autonomously manage files or cross-platform data.
+**Build:** Model Context Protocol (MCP) layer connecting AI agents directly to Google Drive, HubSpot, Notion, and GitHub. Agents autonomously create nested folder structures, route documents semantically, and execute cross-platform syncs.
+**Outcome:** Transforms isolated AI models into a functional digital workforce capable of executing multi-step operational tasks across the entire software stack.
+
+---
+
+#### 6. Consumer Defense AI Chatbot
 **Problem:** Static intake forms lose high-intent leads who need guidance before committing.
 **Build:** Conversational AI intake — detects case category across 8 types, generates dynamic follow-up questions, summarizes the case, and syncs structured data directly to HubSpot CRM.
 **Outcome:** Around-the-clock intelligent lead qualification and CRM capture without staff involvement.
@@ -59,7 +66,7 @@ I design and deploy AI-powered business systems — multi-agent pipelines, RAG a
 |---|---|
 | **AI & Automation** | Multi-Agent Orchestration, RAG Pipelines, Prompt Engineering, GitHub Actions, Cron Automation |
 | **Full-Stack** | React, TypeScript, Node.js, Express, tRPC |
-| **Data & Infrastructure** | Supabase (PostgreSQL + pgvector), S3 Storage, Render |
+| **Data & Infrastructure** | MCP (Model Context Protocol), Supabase (pgvector), S3 Storage, Render |
 | **Business Operations** | HubSpot CRM API, Stripe, Meta Conversions API, SendGrid |
 
 ---
