@@ -1,6 +1,6 @@
 # Turbo Response
 
-**Legal Technology for Complex Matters**
+**AI-Powered Case Operations Platform**
 
 [![Node.js](https://img.shields.io/badge/Node.js-22-339933?logo=node.js&logoColor=white)](https://nodejs.org)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev)
@@ -10,21 +10,21 @@
 [![MySQL](https://img.shields.io/badge/MySQL-TiDB-4479A1?logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Deployed on Render](https://img.shields.io/badge/Deployed-Render-46E3B7?logo=render&logoColor=white)](https://render.com)
 
-**AI-Powered Legal Intelligence • Document Analysis • Research • Compliance • Response Infrastructure**
+**AI-Powered Case Operations • Document Intelligence • Evidence Management • Regulatory Research • Workflow Automation**
 
 ---
 
 ## About Turbo Response
 
-Turbo Response is an AI-powered Legal Technology platform built to help consumers, businesses, and organizations navigate complex, documentation-heavy matters.
+Turbo Response is an AI-powered Case Operations platform built for organizations managing complex, documentation-intensive matters.
 
-The platform combines AI, operational intelligence, research workflows, and document analysis to help users organize information, identify governing rules, build stronger cases, manage compliance, and prepare intelligent responses.
+The platform combines AI, document intelligence, evidence organization, timeline generation, regulatory research, workflow automation, and operational support to help teams process complex cases faster and with greater consistency.
 
-Rather than replacing legal professionals, Turbo Response provides technology, documentation, research, workflow, and operational support that helps people make better-informed decisions.
+Rather than replacing attorneys or providing legal advice, Turbo Response strengthens the operational side of case management by helping organizations organize information, improve workflows, prepare documentation, and support better decisions through intelligent technology.
 
-> **The Rules Are Complicated. Your Next Step Shouldn't Be.**
+> **From Scattered Information to Organized Action.**
 >
-> Millions of laws, regulations, policies, codes, and procedures shape business and everyday decisions. Turbo Response helps organize the facts, identify what matters, and support stronger operational responses through intelligent technology.
+> Organizations managing complex cases face overwhelming amounts of documentation, evidence, regulations, and operational work. Turbo Response transforms scattered information into organized action through AI-powered case operations, intelligent research, workflow automation, and documentation support.
 
 ---
 
@@ -34,14 +34,14 @@ Rather than replacing legal professionals, Turbo Response provides technology, d
 |---|---|
 | **Document Intelligence** | Organize and analyze hundreds of pages of documents, contracts, notices, and records |
 | **Evidence Organization** | Structure evidence, correspondence, and supporting materials for any matter |
-| **Legal & Regulatory Research** | Research laws, regulations, agency guidance, policies, and procedures |
+| **Regulatory Intelligence** | Research laws, regulations, agency guidance, policies, and procedures |
 | **Compliance Support** | Navigate compliance requirements, code enforcement, and regulatory obligations |
-| **Case Building** | Assemble facts, evidence, and documentation into a coherent, actionable case |
-| **Claims & Response Preparation** | Prepare claims, responses, and administrative submissions |
+| **Case Preparation** | Assemble facts, evidence, and documentation into a coherent, actionable case |
+| **Case Response Support** | Prepare claims, responses, and administrative submissions |
 | **Investigation Support** | Organize documentation and research for active investigations |
 | **Administrative Response** | Prepare responses to government agencies, regulatory bodies, and enforcement actions |
 | **Code Enforcement Support** | Navigate municipal code enforcement, violations, and appeals |
-| **Operational Intelligence** | Surface insights from complex information to support better decisions |
+| **Case Operations Intelligence** | Surface insights from complex information to support better decisions |
 | **AI Workflow Automation** | Automate repetitive documentation, research, and workflow tasks |
 
 ---
@@ -59,12 +59,12 @@ Built, documented, and continuously refined through real-world operational use.
 
 ---
 
-## Latest Milestone: AI Voice Agent Framework
+## Latest Milestone: AI Case Operations Framework
 
-Turbo Response includes a production-ready **AI Voice Agent Framework** that integrates knowledge bases with intelligent voice interactions. The framework powers the Matter Intake Voice Agent and is architected for reuse across industries.
+Turbo Response includes a production-ready **AI Case Operations Framework** that integrates knowledge bases with intelligent voice interactions. The framework powers the Case Operations Voice Agent and is architected for reuse across industries.
 
 **Current Implementation:**
-- **Matter Intake Voice Agent** — Live phone number (+1 (659) 274-2355), natural conversation flow, knowledge-base-powered responses
+- **Case Operations Voice Agent** — Live phone number (+1 (659) 274-2355), natural conversation flow, knowledge-base-powered responses
 - **Knowledge Base Integration** — Google Drive as source of truth, synchronized to xAI Collections for RAG retrieval
 - **Automated Sync Backend** — xAI Collections sync service with retry logic, change detection, and admin controls
 - **Architecture** — Modular, configuration-driven design for rapid deployment across industries
@@ -173,19 +173,19 @@ Turbo Response Dashboard
 
 ## Key Features
 
-### Matter Intake System
+### Case Intake System
 
-Structured intake workflows for consumers and organizations navigating complex matters. Multi-step forms with document upload support, terms acceptance with IP capture, and automatic case number generation. On successful submission, leads are written to the database, synced to HubSpot CRM, and the owner receives a real-time notification.
+Structured case intake workflows for organizations managing complex matters. Turbo Response captures information, organizes documentation, synchronizes operational data, and supports AI-powered case workflows from intake through resolution. Multi-step forms with document upload support, terms acceptance with IP capture, and automatic case number generation. On successful submission, leads are written to the database, synced to HubSpot CRM, and the owner receives a real-time notification.
 
 | Flow | Route | Description |
-|---|---|---|
-| Matter Intake | `/turbo-intake` | Primary intake for all matter types |
+|---|---|
+| Case Intake | `/turbo-intake` | Primary intake for all matter types |
 | Defense Intake | `/intake` | Responding to a claim or enforcement action |
 | Offense Intake | `/intake-offense` | Building a claim or taking action |
 
 ### Document Intelligence & Analysis
 
-Screenshot capture and LLM-powered OCR pipeline that extracts text, dates, names, organizations, emails, phone numbers, and categorizes content from uploaded documents. Results are saved to the database for case management and reference.
+Screenshot capture and LLM-powered OCR pipeline that extracts text, dates, names, organizations, emails, phone numbers, and categorizes content from uploaded documents. Results are organized into structured case files that support operational workflows, documentation management, and AI-assisted case preparation.
 
 ### Business Intelligence Audit
 
@@ -193,7 +193,7 @@ A business submits their information and challenge. The platform scrapes the sub
 
 ### Conversational AI Chatbot
 
-A multi-turn AI chatbot handles matter intake through natural conversation. Performs category detection, generates follow-up questions, produces a matter summary, and provides guidance — all with compliance-safe language that avoids legal advice. Conversations, messages, evidence uploads, and leads are persisted to the database.
+A multi-turn AI assistant supports case intake, documentation collection, evidence organization, and operational workflows while maintaining compliance-safe communication. Performs category detection, generates follow-up questions, produces a matter summary, and provides guidance — all with compliance-safe language that avoids legal advice. Conversations, messages, evidence uploads, and leads are persisted to the database.
 
 ### Brain System (Knowledge Base)
 
@@ -201,7 +201,7 @@ An access-token-protected document upload system backed by Supabase. Administrat
 
 ### Admin Dashboard and Command Center
 
-A role-gated admin interface provides matter management across all intake types. The Command Center serves as a navigation hub linking to the admin dashboard, client portal, intake forms, Brain System, and operational tools. A CEO Home panel supports priority tracking, project management, and task management.
+A role-gated admin interface provides case operations management across all intake types. The Command Center serves as a navigation hub linking to the admin dashboard, client portal, intake forms, Brain System, and operational tools. A CEO Home panel supports priority tracking, project management, and task management.
 
 ### HubSpot CRM Integration
 
@@ -219,11 +219,11 @@ Clients access their matter status through a dedicated portal after authenticati
 
 ## Important Positioning
 
-Turbo Response is a **Legal Technology platform**.
+Turbo Response is an **AI-powered Case Operations platform**.
 
 It is not a law firm and does not provide legal advice or legal representation.
 
-The platform focuses on technology, research, documentation, workflow, organization, compliance support, and operational intelligence — helping consumers and organizations make better-informed decisions through intelligent technology.
+The platform helps organizations organize documentation, manage evidence, build timelines, research regulations, improve operational workflows, and prepare stronger case files through intelligent automation and AI-powered operational support.
 
 ---
 
