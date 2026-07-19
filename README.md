@@ -28,6 +28,24 @@ Rather than replacing attorneys or providing legal advice, Turbo Response streng
 
 ---
 
+## About the Developer
+
+Turbo Response was designed, built, integrated, and deployed as a production-grade AI Case Operations platform. My role spans product architecture, AI systems design, full-stack development, workflow automation, and operational intelligence. The platform demonstrates my ability to design, build, deploy, and continuously improve complex AI-powered software systems that solve real-world operational challenges.
+
+## My Contributions
+
+- Designed the overall system architecture.
+- Built the React + TypeScript frontend.
+- Developed the Node.js + Express backend.
+- Designed the MySQL database with Drizzle ORM.
+- Integrated OpenAI, xAI, RAG, and document intelligence.
+- Built the AI Voice Agent and Knowledge Base framework.
+- Integrated HubSpot CRM, Google Drive, AWS S3, and email services.
+- Configured GitHub Actions, CI/CD, and deployment on Render.
+- Built and continuously refined the platform through real-world operational use.
+
+---
+
 ## Core Capabilities
 
 | Capability | Description |
