@@ -30,7 +30,7 @@ Rather than replacing attorneys or providing legal advice, Turbo Response streng
 
 ## About the Developer
 
-Turbo Response was designed, built, integrated, and deployed as a production-grade AI Case Operations platform. My role spans product architecture, AI systems design, full-stack development, workflow automation, and operational intelligence. The platform demonstrates my ability to design, build, deploy, and continuously improve complex AI-powered software systems that solve real-world operational challenges.
+Turbo Response was designed, architected, built, and deployed by Demarcus Collins as a production-grade AI Case Operations platform. My work spans AI systems engineering, full-stack software development, workflow automation, cloud deployment, and operational intelligence. The platform demonstrates my ability to build end-to-end AI-powered software that integrates modern web technologies, LLMs, RAG, external APIs, and automation into real-world business solutions.
 
 ## My Contributions
 
